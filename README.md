@@ -16,7 +16,7 @@ I am a passionate web developer with a Bachelor's degree in Computer Science, an
 
 ## Background
 
-- **Name:** [Zain Ul Abideen]
+- **Name:** Zain Ul Abideen
 - **Education:** Bachelor of Science in Computer Science
 - **LinkedIn:** (https://www.linkedin.com/in/zain-ul-29507519b)
 - **GitHub:** (https://github.com/ZainRanaZr)
