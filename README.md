@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web and Android/IOS Development
 - 🌱 I’m currently learning IOS Develoment
 - 💞️ I’m looking to collaborate on Web / IOS / Android.
-- 📫 How to reach me ... https://www.facebook.com/ZainRana0
+- 📫 How to reach me ... [https://www.facebook.com/izainulabiden](https://www.facebook.com/izainulabiden)
 
 ZainRanaZr/ZainRanaZr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,8 +18,8 @@ I am a passionate web developer with a Bachelor's degree in Computer Science, an
 
 - **Name:** Zain Ul Abideen
 - **Education:** Bachelor of Science in Computer Science
-- **LinkedIn:** (https://www.linkedin.com/in/zain-ul-29507519b)
-- **GitHub:** (https://github.com/ZainRanaZr)
+- **LinkedIn:** [https://www.linkedin.com/in/zain-ul-29507519b](https://www.linkedin.com/in/izainulabideen/)
+- **GitHub:** [(https://github.com/ZainRanaZr)](https://github.com/izainulabideen)
 
 ## Interest
 
@@ -27,7 +27,7 @@ I am a passionate web developer with a Bachelor's degree in Computer Science, an
 - 👀 I’m interested in Web and Android/IOS Development/AI Data Mining & Models
 - 🌱 I’m currently learning AI & Data Mining
 - 💞️ I’m looking to collaborate on Web / Android / AI.
-- 📫 How to reach me ... https://www.facebook.com/ZainRana0
+- 📫 How to reach me ... [https://www.facebook.com/izainulabiden](https://www.facebook.com/izainulabiden)
   
 ## Skills
 
